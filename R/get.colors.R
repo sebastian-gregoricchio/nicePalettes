@@ -19,7 +19,7 @@ get.colors =
 
 
     ### Check id
-    data("nicePalettes")
+    nicePalettes = nicePalettes::nicePalettes
 
     if (!(tolower(palette.name) %in% tolower(names(nicePalettes)))) {
       warning(paste0("The palette '",palette.name,"' is not available.\nChoose one among:\n'",
