@@ -10,7 +10,7 @@ plot.palettes =
 
     require(ggplot2)
 
-    data("nicePalettes", package = "nicePalettes")
+    nicePalettes = nicePalettes::nicePalettes
 
     # convert list to data.frame
     pal.df.list = list()
