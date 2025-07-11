@@ -16,7 +16,10 @@ nicePalettes = list(spanishOrange = c("#ffc99d", "#ff9248", "#ff8100", "#ff580f"
                                   colorspace::lighten("#378a66", 0.8),
                                   colorspace::lighten("#4e4d4d", 0.8)),
                     emmaDark = c("#41679d", "#674092", "#bf3134", "#f07e18", "#378a66", "#4e4d4d"),
-                    nils = c("#03675e", "#35978f", "#80cdc1", "#c8e8e3", "white", "#f5e7c3", "#dfc17c", "#e5ac23", "#bf812b"))
+                    nils = c("#03675e", "#35978f", "#80cdc1", "#c8e8e3", "white", "#f5e7c3", "#dfc17c", "#e5ac23", "#bf812b"),
+                    whiteysPink = c("#ff89a9", "#ff668e", "#ff4274", "#ff1e5a", "#f90042", "#d60039", "#b2002f"),
+                    pastelPink = c("white","#ffeaea", "#ffe1e1", "#ffd8d8", "#ffc3c3", "#ffb0b0"),
+                    seventeen = c("#f7cac9", "#dec2cb", "#c5b9cd", "#abb1cf", "#92a8d1"))
 
 
 
